@@ -1,7 +1,14 @@
 # Lesson 18 - Students choice
 
-## What did I miss?
-One week until final presentation demos and the end of the course!  What will next Monday be like?
+## One Week Until Final Presentations!
+One week until final presentation demos and the end of the course!  I'm excited to see the realization of these projects.  Lets go into details on what to expect next Monday.
+
+Everyone will spend ~5 minutes presenting. This doesn't have to be a huge production.
+
+Talk about:
+  * Your site's purpose
+  * Your challenges, victories
+  * What you learned that we didn't cover in FEWD
 
 ## Lesson Objectives
 By the end of this class you will be able to:
@@ -102,7 +109,7 @@ Think about this quote: “Git is software. GitHub is company that happens to us
 
 **Exercise**: Let's spend ~20 minutes adding onto your github portfolio.  Add the Relaxr exercises, Startup Matchmaker, etc.
 
-
+ 
 
 Bootstrap
 ====
@@ -159,12 +166,43 @@ These components include:
 * Alerts
 * and More...
 
-There are too many components to cover them all in detail during this class.  Thankfully, the [Bootstrap Documentation](http://getbootstrap.com/css/#grid-intro) goes into great detail on each individual component and the classes used by Bootstrap.
+**Exercise**: Bootstrap Scavenger Hunt
 
+As a class, we're going to compile an appendix to the Bootstrap documentation, providing tips and tricks on the implementation of some of Bootstrap's Greatest Hits.
+
+**Group One**
+
+- Jumbotron
+- Well
+- Modal
+- Glyphicon
+
+**Group Two**
+
+- Badge
+- Progress bar
+- List groups
+- Tooltip
+
+**Group Three**
+- Navbar
+- Dropdowns
+- Panels
+
+Each group should create Codepen demo of their three components and write up the answers to the following questions for each:
+
+- What is it?
+- What's it good for?
+- Where can I read more about it?
+- Any tips/tricks for implementation? _(Think: What value can I add to the existing docs?")_
+
+**Lab/Homework**: 
+
+Bootstrapify (or [Foundation](http://foundation.zurb.com)-ify or [Materialize](http://materializecss.com)-ify or [Picnic](http://picniccss.com)-ify or [Pure](http://purecss.io/)-ify or…) something that you built earlier in the course. If you don't want to overwrite your previous styling, you're welcome to work on an branch.
 
 ---
 
-## Helpful References
+## Bootstrap References
 
 http://getbootstrap.com/components/
 
