@@ -142,17 +142,17 @@ For now, lets install either the compiled Bootstrap or grab a CDN link.
 
 Bootstrap uses a 12 column responsive grid in order to control the layout of the page.  This grid is an invisible set of measurements used to determine the size of your HTML elements on screen.
 
-![12 column grid](https://github.com/king0120/Github-Bootstrap/blob/master/960-Grid.png?raw=true)
+![12 column grid](https://github.com/king0120/Github-Bootstrap/blob/master/960-Grid.png?raw=true )
 
 Through Bootstrap, we can define how many of these columns we want our HTML element to cover.
 
 When using bootstrap, you define a row of content using the row class.  And within the row, you can declare the sizing of your HTML components through the col-* classes.
 
 Lets look at the [Bootstrap Documentation]( http://getbootstrap.com/css/#grid-intro) for more details.
+
 As the page changes size, Bootstrap uses breakpoints defined in it's code to change whether an element stacks or is in line with others.  
 
-Demo a basic 2 column site
-what happens if your container has more than 12 columns?
+**Code Along**: Lets use Bootstrap to create a responsive layout
 
 
 
