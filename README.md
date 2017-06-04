@@ -17,8 +17,8 @@ Git & Github
 ## What is Version Control?
 Version control is a way to keep track your project as it changes over time.  It also is the easiest way to collaborate with other developers working on the same codebase.
 
-Have you ever run into this problem? 
-![phd version-control](phd101212s.png)
+Have you ever run into this problem? <br/>
+![phd version-control](phd101212s.png)<br/>
 This is what version control solves.  Using version control you can incrementally change and modify your project, while still having a history of your previous work. 
 
 #### What is Version Control good for?
@@ -130,20 +130,29 @@ For now, lets install either the compiled Bootstrap or grab a CDN link.
 
 Bootstrap uses a 12 column responsive grid in order to control the layout of the page.  This grid is an invisible set of measurements used to determine the size of your HTML elements on screen.
 
-![12 column grid](960-grid.png)
+![12 column grid](./960-grid.png)
 
 Through Bootstrap, we can define how many of these columns we want our HTML element to cover.
 
 When using bootstrap, you define a row of content using the row class.  And within the row, you can declare the sizing of your HTML components through the col-* classes.
 
-Lets look at the [Bootstrap Documentation](http://getbootstrap.com/css/#grid-intro) for more details.
+Lets look at the [Bootstrap Documentation]( http://getbootstrap.com/css/#grid-intro) for more details.
 As the page changes size, Bootstrap uses breakpoints defined in it's code to change whether an element stacks or is in line with others.  
 
-You can further add to the layout by using rows.  
+Demo a basic 2 column site
+what happens if your container has more than 12 columns?
+
+
 
 ## Components
 
+Another benefit of using Bootstrap is the resusable components available to help build your application quickly.  
 
--Install using cdn, remember jquery
--container class, how it is related to bootstrap grids
+These components include:
+* Dropdown Menus
+* Styled Buttons
+* Alerts
+* and More...
+
+There are too many components to cover them all in detail during this class.  Thankfully, the [Bootstrap Documentation](http://getbootstrap.com/css/#grid-intro) goes into great detail on each individual component and the classes used by Bootstrap.
 
