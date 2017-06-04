@@ -106,14 +106,44 @@ Bootstrap
 
 ## What is Bootstrap?
 
+Bootstrap is the world's most popular styling library.  It was originally created by Twitter and has since been used all over the web.  Through using Bootstrap you can easily create responsive layouts, utilize components built by CSS experts, and more rapidly build projects that look great.
+
+Bootstrap Website: [Get Bootstrap](http://getbootstrap.com/)
+
 ## Mobile First Design
 
+One of Bootstrap's biggest features is that it is focused on mobile first design, and easily scales up. 
+
 ## Installing Bootstrap
+Thanks to the documentation, it's pretty clear how to install Bootstrap.  However, there are so many choices that it may be confusing.
+* Compiled Bootstrap - This is what we want
+* Source Code - written in LESS
+* Sass - similar to Source Code
+* CDN 
+* Bower/NPM/Composer - package managers
+
+For now, lets install either the compiled Bootstrap or grab a CDN link.
+
+<strong>REMEMBER:</strong> Bootstrap is dependent on jQuery, so make sure it is also present on your page.
 
 ## 12-Column Grid
+
+Bootstrap uses a 12 column responsive grid in order to control the layout of the page.  This grid is an invisible set of measurements used to determine the size of your HTML elements on screen.
+
+![12 column grid](960-grid.png)
+
+Through Bootstrap, we can define how many of these columns we want our HTML element to cover.
+
+When using bootstrap, you define a row of content using the row class.  And within the row, you can declare the sizing of your HTML components through the col-* classes.
+
+Lets look at the [Bootstrap Documentation](http://getbootstrap.com/css/#grid-intro) for more details.
+As the page changes size, Bootstrap uses breakpoints defined in it's code to change whether an element stacks or is in line with others.  
+
+You can further add to the layout by using rows.  
 
 ## Components
 
 
-
+-Install using cdn, remember jquery
+-container class, how it is related to bootstrap grids
 
