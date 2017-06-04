@@ -142,7 +142,7 @@ For now, lets install either the compiled Bootstrap or grab a CDN link.
 
 Bootstrap uses a 12 column responsive grid in order to control the layout of the page.  This grid is an invisible set of measurements used to determine the size of your HTML elements on screen.
 
-![12 column grid](./960-grid.png)
+![12 column grid](https://github.com/king0120/Github-Bootstrap/blob/master/960-Grid.png?raw=true)
 
 Through Bootstrap, we can define how many of these columns we want our HTML element to cover.
 
