@@ -81,7 +81,7 @@ Think about this quote: “Git is software. GitHub is company that happens to us
 
 **Exercise:** If you think this statement is true, react to with a thumbs up or a thumbs down if you think it is false. Why?
 
-## Codealong - Set Up Github Desktop and publish your final project
+## Let's get started using Git and GitHub
 
 * Visit [GitHub](https://github.com/) and sign up for an account.
 * Download the [Desktop Client](https://desktop.github.com/) (Don't download the new Beta just yet)
@@ -100,6 +100,9 @@ Think about this quote: “Git is software. GitHub is company that happens to us
 * Click Publish in the top right corner.
 * Visit your personal GitHub page. Voila!
 
+**Exercise**: Let's spend ~20 minutes adding onto your github portfolio.  Add the Relaxr exercises, Startup Matchmaker, etc.
+
+
 
 Bootstrap
 ====
@@ -109,6 +112,8 @@ Bootstrap
 Bootstrap is the world's most popular styling library.  It was originally created by Twitter and has since been used all over the web.  Through using Bootstrap you can easily create responsive layouts, utilize components built by CSS experts, and more rapidly build projects that look great.
 
 Bootstrap Website: [Get Bootstrap](http://getbootstrap.com/)
+
+Some examples of sites built with Bootstrap: [Build with Bootstrap](http://builtwithbootstrap.com/)
 
 ## Mobile First Design
 
@@ -156,3 +161,29 @@ These components include:
 
 There are too many components to cover them all in detail during this class.  Thankfully, the [Bootstrap Documentation](http://getbootstrap.com/css/#grid-intro) goes into great detail on each individual component and the classes used by Bootstrap.
 
+
+---
+
+## Helpful References
+
+http://getbootstrap.com/components/
+
+http://getbootstrap.com/css/
+
+http://getbootstrap.com/customize/
+
+https://github.com/twbs/bootstrap-sass
+
+http://www.tutorialspoint.com/bootstrap/
+
+http://bootsnipp.com/
+
+http://tutorialzine.com/2015/06/12-time-saving-bootstrap-examples/
+
+http://builtwithbootstrap.com/
+
+https://bootstrapbay.com/blog/built-with-bootstrap/
+
+https://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-might-not-know
+
+https://scotch.io/tutorials/understanding-the-bootstrap-3-grid-system
