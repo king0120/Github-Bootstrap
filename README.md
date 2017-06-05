@@ -10,6 +10,8 @@ Talk about:
   * Your challenges, victories
   * What you learned that we didn't cover in FEWD
 
+**IMPORTANT** Also, if you have not submitted all of your homework assignments to schoology, please do so ASAP.  In order to recieve a passing grade in the class, I have to have received your homework throughout the course.
+
 ## Lesson Objectives
 By the end of this class you will be able to:
 * Understand the uses and advantages of using Version Control
@@ -152,7 +154,7 @@ Lets look at the [Bootstrap Documentation]( http://getbootstrap.com/css/#grid-i
 
 As the page changes size, Bootstrap uses breakpoints defined in it's code to change whether an element stacks or is in line with others.  
 
-**Code Along**: Lets use Bootstrap to create a responsive layout
+**Code Along**: Lets use Bootstrap to create a responsive layout 
 
 
 
